@@ -1,0 +1,10 @@
+site_name: "LeadsCalendar API Documentation"
+docs_dir: src
+theme: material
+
+# Optional: Customize the navigation bar
+nav:
+  - Home: 'Developer_documentation.md'
+  - Google Calendar API: 'Google_calendar_API.md'
+  - PayPal REST API: 'PayPal_REST_API.md'
+  - Binance Pay API: 'Binance_pay_API.md'
