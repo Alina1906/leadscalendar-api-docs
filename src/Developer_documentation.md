@@ -22,7 +22,7 @@ This documentation focuses on integrating the following APIs:
 
 **Documentation Format**
 
-This documentation is built using a static site generator (your choice: Jekyll, Hugo, or MkDocs). The structure emphasizes clarity with detailed explanations, code samples, and configuration steps for API integration.
+This documentation is built using a static site generator MkDocs. The structure emphasizes clarity with detailed explanations, code samples, and configuration steps for API integration.
 
 **Getting Started**
 
